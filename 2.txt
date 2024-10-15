@@ -1,8 +1,7 @@
 
 hi every one
 
-<<<<<<< HEAD
-how are you
-=======
 
->>>>>>> add2
+how are you
+
+
